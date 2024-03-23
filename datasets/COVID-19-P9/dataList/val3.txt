@@ -1,0 +1,9 @@
+COVID-19-P9/rp_im/7/7_0014.png COVID-19-P9/rp_msk_new/7/7_0014.png
+COVID-19-P9/rp_im/7/7_0015.png COVID-19-P9/rp_msk_new/7/7_0015.png
+COVID-19-P9/rp_im/7/7_0016.png COVID-19-P9/rp_msk_new/7/7_0016.png
+COVID-19-P9/rp_im/7/7_0017.png COVID-19-P9/rp_msk_new/7/7_0017.png
+COVID-19-P9/rp_im/7/7_0018.png COVID-19-P9/rp_msk_new/7/7_0018.png
+COVID-19-P9/rp_im/7/7_0019.png COVID-19-P9/rp_msk_new/7/7_0019.png
+COVID-19-P9/rp_im/7/7_0020.png COVID-19-P9/rp_msk_new/7/7_0020.png
+COVID-19-P9/rp_im/7/7_0021.png COVID-19-P9/rp_msk_new/7/7_0021.png
+COVID-19-P9/rp_im/7/7_0022.png COVID-19-P9/rp_msk_new/7/7_0022.png
